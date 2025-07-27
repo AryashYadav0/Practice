@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AryashYadav0/Practice/tree/master/0007-reverse-integer) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/AryashYadav0/Practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Simulation
 |  |
