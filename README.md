@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AryashYadav0/Practice/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AryashYadav0/Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AryashYadav0/Practice/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryashYadav0/Practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AryashYadav0/Practice/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AryashYadav0/Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AryashYadav0/Practice/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -42,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/AryashYadav0/Practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AryashYadav0/Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AryashYadav0/Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
