@@ -6,7 +6,7 @@ public:
         // return reverseString(s,i+1);
          int l = 0;
         int r = s.size() - 1;
-        while(l<=r){
+        while(l<r){
             swap(s[l++],s[r--]);
         }
 
