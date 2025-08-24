@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AryashYadav0/Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AryashYadav0/Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AryashYadav0/Practice/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/AryashYadav0/Practice/tree/master/1013-fibonacci-number) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/AryashYadav0/Practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Simulation
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AryashYadav0/Practice/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/AryashYadav0/Practice/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -91,8 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AryashYadav0/Practice/tree/master/0005-longest-palindromic-substring) |
+| [1013-fibonacci-number](https://github.com/AryashYadav0/Practice/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AryashYadav0/Practice/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AryashYadav0/Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
